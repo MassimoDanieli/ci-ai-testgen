@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Streamlit
+*.log
+.streamlit/
+
+# Mac system files
+.DS_Store
+
+# Token/API files
+repo-token
+
+# Archives
+*.zip
+
+# Python notebooks or temp
+*.ipynb_checkpoints
+
+# VS Code config (optional)
+.vscode/
+
